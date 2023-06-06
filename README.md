@@ -1,9 +1,7 @@
 # Flirty Pickup Lines API
-
-[![GitHub license](https://img.shields.io/github/license/your-username/your-repository)](https://github.com/your-username/your-repository/blob/main/LICENSE)
-[![API Version](https://img.shields.io/badge/API-v1.0-brightgreen)](https://api-docs.yourdomain.com)
-
 An API that generates army grade pickup lines.
+
+[![API Version](https://img.shields.io/badge/API-v1.0-brightgreen)](https://api-docs.yourdomain.com)
 
 ## Table of Contents
 
